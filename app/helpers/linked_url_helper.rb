@@ -1,0 +1,2 @@
+module LinkedUrlHelper
+end
