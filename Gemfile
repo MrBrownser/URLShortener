@@ -41,4 +41,3 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-coolline'
 end
-
